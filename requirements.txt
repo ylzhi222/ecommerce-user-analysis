@@ -1,0 +1,31 @@
+# requirements.txt for E-commerce Behavior Analysis Project (conda-based export refined)
+
+# Core data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# SQL over CSV (in-memory)
+duckdb==1.2.1  # your conda version
+
+# Dashboard framework
+streamlit==1.32.0
+
+# Notebook / Jupyter support (optional but recommended for local exploration)
+jupyter==1.0.0
+ipykernel==6.28.0
+
+# Date formatting helper (for matplotlib x-axis)
+python-dateutil==2.9.0.post0
+
+# Optional: filesystem utilities
+pathlib; python_version < '3.4'
+
+# Optional: fast web visualizations (you already have it, but not used in this project)
+# plotly==5.22.0
+
+# Environment note:
+# Python version: 3.12.4
