@@ -4,9 +4,20 @@
 
 ---
 
+### 📂 数据说明
+
+本项目未包含原始数据文件（因体积超过 GitHub 限制），请前往以下链接下载：
+
+👉 [数据集地址 - Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+
+下载后请将所需 CSV 文件（如 `2019-Oct.csv.gz`）放置于项目根目录的 `data/` 文件夹中。
+
+也可以使用 `output/cleaned_data_sample.csv` 进行快速体验。
+
+---
+
 ## 📌 项目亮点
 
-* **数据来源**：Kaggle - E-commerce Behavior Data from Multi Category Store（[链接](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)）
 * **数据规模**：4200 万条行为日志（浏览、加购、购买）
 * **技术栈**：Python · Pandas · DuckDB · Streamlit · Matplotlib · Seaborn
 * **核心分析功能**：
