@@ -9,12 +9,12 @@
 每日活跃用户数（DAU）与每周活跃用户数（WAU）如下图所示：
 
 ### 🔹 DAU（每日活跃用户）
-![DAU](./output/figures_full/full_dau.png)
 ![image](https://github.com/user-attachments/assets/c0e030af-77e5-41d9-bbfd-5241316c22a9)
 
 
 ### 🔹 WAU（每周活跃用户）
-![WAU](./full_wau.png)
+![image](https://github.com/user-attachments/assets/aa295892-3312-4805-90fc-2ed04c797ada)
+
 
 结论：
 - 活跃用户在 10 月中旬达到高峰，峰值超 23 万人。
@@ -24,7 +24,8 @@
 
 ## 🔁 2. 行为事件趋势分析
 
-![Event Trend](./full_event_trend.png)
+![image](https://github.com/user-attachments/assets/a6bd01d8-24e5-49bf-b296-e7d6cf25597b)
+
 
 用户行为中：
 - 浏览事件每日超百万，远高于加购与购买；
@@ -34,7 +35,8 @@
 
 ## 📉 3. 浏览 → 加购 → 购买 转化率
 
-![Conversion Funnel](./full_conversion.png)
+![image](https://github.com/user-attachments/assets/192b97ca-ba31-46dd-b28e-34027f425320)
+
 
 - 平均浏览转加购率（View → Cart）：约 1–2%
 - 平均加购转购买率（Cart → Purchase）：60–120%，呈高波动（含异常天）
@@ -43,7 +45,8 @@
 
 ## 📈 4. 留存率分析（Retention）
 
-![Retention Bar](./full_retention_bar.png)
+![image](https://github.com/user-attachments/assets/c597be73-f16d-4150-b0b9-df0f6d4631d4)
+
 
 - 平均次日留存率 Day‑1：9.82%
 - 平均第 7 日留存率 Day‑7：4.55%
@@ -54,10 +57,12 @@
 ## 🏷️ 5. 热门品牌 & 品类分析
 
 ### 🔸 Top 10 品牌
-![Top Brands](./full_top_brands.png)
+![image](https://github.com/user-attachments/assets/c1f3cd6f-d48e-42eb-89e5-a90b16176954)
+
 
 ### 🔹 Top 10 类别
-![Top Categories](./full_top_categories.png)
+![image](https://github.com/user-attachments/assets/1497e582-347e-4b00-a879-c6f3041bba8e)
+
 
 - electronics.smartphone 占比最大，品牌集中在 samsung / apple / xiaomi。
 - 高价值人群集中在主流数码产品上，适合主打高单价和高复购品类。
@@ -67,7 +72,8 @@
 ## 👥 6. 用户价值分群（RFM）
 
 ### 📊 RFM 分群柱状图
-![RFM Segments](./rfm_segments.png)
+![image](https://github.com/user-attachments/assets/81d0cc3d-451e-4303-ae4f-86dd47d62195)
+
 
 | Segment        | 用户数  | 洞察 / 建议                      |
 |----------------|--------|-----------------------------------|
