@@ -9,7 +9,7 @@
 每日活跃用户数（DAU）与每周活跃用户数（WAU）如下图所示：
 
 ### 🔹 DAU（每日活跃用户）
-![DAU](./full_dau.png)
+![DAU](output/figures_full/full_dau.png)
 
 ### 🔹 WAU（每周活跃用户）
 ![WAU](./full_wau.png)
