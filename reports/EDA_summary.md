@@ -10,6 +10,8 @@
 
 ### 🔹 DAU（每日活跃用户）
 ![DAU](./output/figures_full/full_dau.png)
+![image](https://github.com/user-attachments/assets/c0e030af-77e5-41d9-bbfd-5241316c22a9)
+
 
 ### 🔹 WAU（每周活跃用户）
 ![WAU](./full_wau.png)
